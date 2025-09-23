@@ -6,3 +6,4 @@ Here lie fragments of entropy: half-written protocols, fractal ideas, recursive 
 Some are unfinished. Others were never meant to be.
 
 Use at your own risk. Truth is optional.
+ 
